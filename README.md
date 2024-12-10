@@ -1,27 +1,31 @@
 # Persian sans font family
 
-> Under MIT license
+> Under MIT license persian and arbic font
 
 # Usage
 
 ```bash
-npm install PersianSans
+npm i persiansans
 ```
 
 
 link css:
 
 ```html
-<link rel="stylesheet" href="fontface.css">
+<link rel="stylesheet" href="node_modules/persiansans/fontface.css">
 ```
 
 use in css:
 
 ```css
-* {
+*{
 	font-family: PersianSans, sans-serif;
 }
 ```
+
+#sample
+
+The sample in `sample.html`.
 
 # screenshot
 
