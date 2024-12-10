@@ -29,4 +29,4 @@ The sample in `sample.html`.
 
 # screenshot
 
-![persian sans](/screenshot.png)
+![persian sans](https://github.com/mitfont/PersianSans/raw/main/screenshot.png)
