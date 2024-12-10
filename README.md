@@ -1,2 +1,5 @@
-# PersianSans
-Perian sans font face under MIT license
+# Persian sans font family
+
+> Under MIT license
+
+# screenshot
