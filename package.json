@@ -1,0 +1,22 @@
+{
+  "name": "persiansans",
+  "version": "1.0.0",
+  "description": "persian sans font free and open source",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitfont/PersianSans.git"
+  },
+  "keywords": [
+    "persian",
+    "font",
+    "sans",
+    "mit",
+    "arabic"
+  ],
+  "author": "mitfont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitfont/PersianSans/issues"
+  },
+  "homepage": "https://github.com/mitfont/PersianSans#readme"
+}
